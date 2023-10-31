@@ -1,4 +1,4 @@
-# X-Ray Tomography Lithium ion battery
+# X-Ray Topography Lithium ion battery
 This is based on the research to find cracked modules. This is the [dataset](https://www.kaggle.com/datasets/kmader/battery-3d-images)   
 #### TODO   
 1. Segment the image more precisely
